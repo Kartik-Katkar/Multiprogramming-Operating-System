@@ -37,8 +37,6 @@ This diagram delves deeper into the system, illustrating main memory, auxiliary 
 
 ## Contribution Guidelines
 
-## Contribution Guidelines
-
 I encourage contributions from the community to enhance the Multiprogramming Operating System simulation. To ensure a smooth collaboration, please consider the following guidelines:
 
 1. **Fork the Repository:**
