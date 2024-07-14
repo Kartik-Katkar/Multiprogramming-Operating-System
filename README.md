@@ -13,7 +13,7 @@ This repository contains a simulation of a multiprogramming operating system imp
 
 ## Usage
 
-1. Ensure you have GCC (GNU Compiler Collection) installed.
+1. Ensure you have GCC (GNU Compiler Collection) installed to run the C++ code.
 2. Clone the repository:
 
     ```bash
