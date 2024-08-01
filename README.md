@@ -76,11 +76,3 @@ I encourage contributions from the community to enhance the Multiprogramming Ope
 
 7. **Submit a Pull Request:**
    - Open a pull request on the main repository's `main` branch. Provide a clear and concise explanation of your changes.
-
-8. **Code Review:**
-   - Participate in the code review process by addressing feedback and making necessary changes.
-
-9. **Merge:**
-   - After approval, your changes will be merged into the main repository.
-
-Thank you for contributing to the Multiprogramming Operating System simulation! Your efforts help improve the project for everyone. If you have any questions or need assistance, feel free to open an issue or join the discussion in the project's GitHub repository.
